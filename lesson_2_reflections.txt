@@ -1,0 +1,13 @@
+--
+What happens when you initialize a repository? Why do you need to do it?
+
+A hidden folder is created in which meta-data is stored by git. This needs to be done to track
+the versions of the files in the repository.
+
+
+--
+How is the staging area different from the working directory and the repository? What value do you
+think it offers?
+
+The staging area is intermediate between working directory and repository. Staging area allows to
+select which files to be tracked..?
