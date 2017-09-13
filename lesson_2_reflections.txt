@@ -11,3 +11,10 @@ think it offers?
 
 The staging area is intermediate between working directory and repository. Staging area allows to
 select which files to be tracked..?
+
+
+--
+How can you use the staging area to make sure you have one commit per logical change?
+
+Can move changed files to the staging area that belong together, to then commit, other than committing
+all files that were changed in the working copy at once.
