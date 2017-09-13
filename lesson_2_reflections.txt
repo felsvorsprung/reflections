@@ -18,3 +18,9 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 Can move changed files to the staging area that belong together, to then commit, other than committing
 all files that were changed in the working copy at once.
+
+
+--
+What are some situations when branches would be helpful in keeping your history organized? How would 
+branches help?
+Branches can be used to work on experimental features while keeping the main code base intact at any time.
