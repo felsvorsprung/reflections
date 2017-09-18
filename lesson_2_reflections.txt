@@ -23,4 +23,30 @@ all files that were changed in the working copy at once.
 --
 What are some situations when branches would be helpful in keeping your history organized? How would 
 branches help?
+
 Branches can be used to work on experimental features while keeping the main code base intact at any time.
+
+
+--
+How do the diagrams help you visualize the branch structure?
+
+The branch structure can be non-linear and somewhat complicated. Also, commits refer to parents. By 
+graphical illustration the dependencies come out clearly and it is easier to understand how branches
+have grown, which commits are potentially unreachable, etc.
+
+
+--
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+A single branch with the contents of both branches. Two branches are combined into one.
+
+
+--
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+The advantage of automatic merging is that it means less work for the programmer but if git were to always
+merge automatically there would be a chance of breaking the code.
+
+
+--
+
